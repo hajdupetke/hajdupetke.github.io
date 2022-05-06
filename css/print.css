@@ -1,0 +1,26 @@
+header, figcaption,footer, aside, nav, form, iframe, video, .video-box {
+    display: none !important;  
+}
+
+.card {
+    border: none;
+}
+
+.d-inline-block.align-text-top {
+    display: none !important;
+}
+
+img {
+    width: 100%;
+}
+
+.print {
+    display: flex;
+}
+
+body {
+    display: block !important;
+}
+a.btn {
+    display: none !important;
+}
